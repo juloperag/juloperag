@@ -1,6 +1,6 @@
 
 
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
+![Header image](https://github.com/juloperag/juloperag/blob/main/header.png)
 
 ## 🚀 About Me
 
