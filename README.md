@@ -1,8 +1,10 @@
-# Hi there! I'm [Your Name] 👋
+
+
+![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
 
 ## 🚀 About Me
 
-I am a hybrid technical professional focused on End-to-End solutions, bridging the gap between hardware and cloud infrastructure, with a **primary focus on Data Science and Analytics**. I build robust data pipelines from the physical sensor up to the cloud, specifically to feed machine learning models and extract predictive value:
+I am a hybrid technical professional focused on End-to-End solutions, bridging the gap between hardware and cloud infrastructure, with a **primary focus on Data Science and Analytics**. I build robust data pipelines and specifically to feed machine learning models and extract predictive value:
 
 * **🧠 Data Science Focus:** Passionate about transforming raw data into business intelligence and predictive value, applying Machine Learning models, statistical analysis, and advanced analytics pipelines.
 * **💻 Backend Developer:** Building the robust architectures, efficient APIs, and scalable business logic required to process and route data seamlessly.
