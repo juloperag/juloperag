@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-I am a hybrid technical professional focused on End-to-End solutions, bridging the gap between hardware and cloud infrastructure, with a **primary focus on Data Science and Analytics**. I build robust data pipelines and specifically to feed machine learning models and extract predictive value:
+I am a hybrid technical professional focused on delivering true end-to-end solutions. By seamlessy bridging the gap between hardware and cloud infrastructure, I take projects from physical sensor instrumentation all the way to cloud architecture. Additionally, I specialize in data science and analytics, building the robust pipelines and machine learning models needed to turn raw edge data into intelligent cloud insights.
 
-* **🧠 Data Science Focus:** Passionate about transforming raw data into business intelligence and predictive value, applying Machine Learning models, statistical analysis, and advanced analytics pipelines.
+* **🧠 Data Science:** Passionate about transforming raw data into business intelligence and predictive value, applying Machine Learning models, statistical analysis, and advanced analytics pipelines.
 * **💻 Backend Developer:** Building the robust architectures, efficient APIs, and scalable business logic required to process and route data seamlessly.
 * **🌐 Cloud Engineer:** Designing and deploying secure infrastructure on AWS for heavy-duty big data ingestion, storage, and processing.
 * **📟 IoT Engineer:** Programming microcontrollers, developing firmware, and capturing real-time telemetry straight from the physical source.
